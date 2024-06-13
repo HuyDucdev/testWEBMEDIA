@@ -1,9 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 import cloud1 from "../../assets/img/cloud1.png";
 import sup from "../../assets/img/superman.png";
 
 const ToggleSwitch = () => {
-  const [isClick, setIsClick] = useState<boolean>(false);
+  const [isClick, setIsClick] = React.useState<boolean>(false);
 
   return (
     <div className="flex justify-center mt-4">

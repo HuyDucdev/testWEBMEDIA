@@ -1,5 +1,3 @@
-import React from "react";
-
 const PlusButton = () => {
   return (
     <div className="ml-0">
