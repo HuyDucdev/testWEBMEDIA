@@ -1,5 +1,3 @@
-import React from "react";
-import ToggleSwitch from "./components/togglesw/ToggleSwitch";
 import LoadingTube from "./components/loadingtube/LoadingTube";
 import PlusButton from "./components/plusbutton/PlusButton";
 
